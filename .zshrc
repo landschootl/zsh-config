@@ -69,6 +69,7 @@ plugins=(
   docker
   sudo
   vscode
+  brew
   zsh-autosuggestions
   zsh-syntax-highlighting
 )
